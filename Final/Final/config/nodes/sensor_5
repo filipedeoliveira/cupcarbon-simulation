@@ -1,0 +1,12 @@
+List of parameters
+------------------------------------------
+device_type:1
+device_id:5
+device_longitude:-8.407217860221863
+device_latitude:41.55642429503441
+device_elevation:0.0
+device_radius:0.0
+device_hide:0
+device_draw_battery:false
+device_sensor_unit_radius:60.0
+device_script_file_name:S5.csc

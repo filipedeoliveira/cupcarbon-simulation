@@ -1,0 +1,13 @@
+List of parameters
+------------------------------------------
+device_type:1
+device_id:11
+device_longitude:-8.414111137390137
+device_latitude:41.54961583931254
+device_elevation:0.0
+device_radius:0.0
+device_hide:0
+device_draw_battery:false
+device_sensor_unit_radius:20.0
+device_gps_file_name:avliberdade.gps
+device_script_file_name:mobile1.csc

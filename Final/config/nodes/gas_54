@@ -1,0 +1,10 @@
+List of parameters
+------------------------------------------
+device_type:2
+device_id:54
+device_longitude:-8.403419852256775
+device_latitude:41.5584273544459
+device_elevation:0.0
+device_radius:10.0
+device_hide:0
+natural_event_file_name:tempGen.evt
