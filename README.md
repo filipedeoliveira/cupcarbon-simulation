@@ -7,8 +7,9 @@ parking management scenarios.
 
 ###################### User guide ######################
 
-* Item 1 Ola
-* Item 2 Ole
+1. Item 1
+1. Item 2
+1. Item 3 OLL
 
 1. download CupCarbon (http://www.cupcarbon.com/download.html);
 2. download source code and unzip the folder;
