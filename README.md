@@ -8,10 +8,6 @@ parking management scenarios.
 ###################### User guide ######################
 
 1. download CupCarbon (http://www.cupcarbon.com/download.html);
-1. download source code and unzip the folder;
-1. open the file cupcarbon\cupcarbon.jar;
-
-1. download CupCarbon (http://www.cupcarbon.com/download.html);
 2. download source code and unzip the folder;
 3. open the file cupcarbon\cupcarbon.jar;
 4. in CupCabon select Project -> Open Project -> Folder project -> file.cup;
