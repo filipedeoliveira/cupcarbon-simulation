@@ -14,6 +14,6 @@ parking management scenarios.
 5. In the side menu select **Market Parameters -> Draw all routes;**
 6. In the menu select **Simulation Parameters, and select the checkbox -> Mobility\Events**;
 7. Select the parameters of simulation. In the same menu choose the values Simulation Speed and Arrow Speed. 
-   Example: **Simulation Speed = 500, Arrow Speed = 50**;   
+         Example: **Simulation Speed = 500, Arrow Speed = 50**;   
 8. **Simulation -> Run Simulation**.
 
